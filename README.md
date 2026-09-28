@@ -1,11 +1,6 @@
 <div align="center">
 
 <img src="assets/readme-now-playing.png" alt="Yung playing a song, the cover in a flower shape ringed by the visualizer" width="100%">
-
-<a href="https://buymeacoffee.com/e_gurl">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support Yung on Buy Me a Coffee" width="217" height="60">
-</a>
-
 # Yung
 
 **YouTube Music, your music files, and your music server. Native on Yen Linux.**

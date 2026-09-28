@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="assets/readme-now-playing.png" alt="Yung playing a song, the cover in a flower shape ringed by the visualizer" width="100%">
-# Yung
+
+**Yung**
 
 **YouTube Music, your music files, and your music server. Native on Yen Linux.**
 
@@ -29,7 +30,7 @@ A minimal Material 3 player built with C++ and Qt Quick, designed for Yen and Wa
 - **Library tools**: likes, listening history, smart mixes, custom smart playlists, M3U playlist import and export, custom playlist covers, playlist cleanup, multi-selection, drag reordering and Undo.
 - **Playback controls**: mini player, queue editing with source headings, an immersive up-next carousel, volume normalization, shuffle, repeat, sleep timer, playback speed and audio-device selection.
 - **Keyboard and assistive use**: every control takes focus and shows it, sections are marked as headings, and colors are solved to keep 4.5:1 contrast in both themes and at either contrast setting.
-- **Desktop integration**: media keys through MPRIS, optional notifications, light/dark themes and Noctalia palette support.
+- **Desktop integration**: Follows Yen's Shell theme.
 
 Native rendering and bounded artwork caches keep Yung lightweight. Animated covers share one additional decoder, released when the player is hidden. Animations can be disabled in Settings.
 
